@@ -17,6 +17,7 @@ body {
     height: 80vh;
     width: 30vw;
     padding: 30px 40px;
+    border-radius: 20px;
 }
 
 #display {
