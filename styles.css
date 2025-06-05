@@ -7,6 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-content: center;
+    padding-top: 20px;
 }
 
 #calculatorWrap {
@@ -27,7 +28,12 @@ body {
     background-color: rgb(75, 75, 75);
     flex: 1;
     margin: 0 0 15px;
+    height: 26px;
 
+}
+
+h2 {
+    font-size: 26px;
 }
 
 
